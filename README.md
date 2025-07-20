@@ -1,3 +1,59 @@
+# 👋 Welcome to FankyMiu's GitHub Homepage
+
+## About Me
+
+- 🌏 Based in Hong Kong, previously focused on fixed income market analysis
+- 📊 Passionate about financial market research and actively exploring blockchain, technology innovation, and data science
+- 🧑‍💻 Committed to fully transitioning into Web3 and blockchain development
+
+## Technical Skills & Learning Objectives
+
+- **Programming Languages:** Python, JavaScript
+- **Finance Applications:** Corporate and bond analysis, quantitative strategies
+- **Blockchain & Smart Contracts:** Fundamentals, cryptography, DApp development, emerging web3 technologies
+- **Current Learning:**  
+  🌟 Actively participating in the [Alchemy University Ethereum Developer Bootcamp](https://university.alchemy.com/) (7 weeks). The curriculum covers:  
+  1. **JavaScript & Web3 Fundamentals**  
+  2. **EVM, Wallets, Cryptography**  
+  3. **Solidity Smart Contract Design**  
+  4. **Frontend Integration & DApp Development**  
+  5. **DeFi Interaction & Advanced Contracts**  
+  6. **Smart Contract Testing, Deployment, and Mainnet Practice**  
+  7. **Capstone Project Development & Demo**  
+  <br>Currently, I have completed Week 1 and am progressing with daily coding challenges, focusing on building up skills in Solidity, smart contracts, and DApp development.
+
+## Current Interests & Focus
+
+- 💡 Deepening knowledge in Ethereum core cryptography (ECDSA, Keccak256)
+- 🪙 End-to-end wallet and blockchain application projects
+- 🔒 Security best practices, decentralized account management, replay protection
+- Striving to write clean code and document all learning in open-source projects
+
+## Projects & Notes
+
+- [`ecdsa-node`](https://github.com/FankyMiu/Fanky-web3-ecdsa-node): A comprehensive end-to-end Ethereum wallet DApp project, with detailed learning records and extensive cryptographic implementation
+- `notes/` folder: Weekly learning journals and Bootcamp takeaways
+- Upcoming: Solidity smart contract projects, on-chain automation scripts, DeFi-focused applications
+
+## Professional Commitment
+
+- Emphasizing private key security and best development practices
+- Providing thorough documentation and reflection at every learning stage for deeper knowledge retention and skill growth
+- Continuously striving for self-improvement, aiming for both engineering efficiency and security quality
+
+## Interests & Explorations
+
+- Blockchain applications, Web3 technologies, financial market structures
+
+## Let's Connect
+
+- Feel free to open a GitHub Issue for discussion, collaboration, or feedback!
+
+---
+
+MIT License | Last updated: 2025-07-20
+
+
 # 👋 歡迎來到 FankyMiu 的 GitHub 主頁
 
 ## 關於我
