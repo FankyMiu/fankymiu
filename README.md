@@ -12,7 +12,15 @@
 - **金融應用**：公司與債券分析、量化策略
 - **區塊鏈/智能合約**：基礎原理、密碼學、DApp、新興技術
 - **現正進修**：  
-  🌟 持續參與 [Alchemy University Ethereum Developer Bootcamp](https://university.alchemy.com/)，已完成第 1 週（共 7 週），每日挑戰區塊鏈技術，致力提升 Solidity、智能合約與 DApp 開發能力
+  🌟 持續參與 [Alchemy University Ethereum Developer Bootcamp](https://university.alchemy.com/)，課程共七週，內容涵蓋：  
+  1. **JavaScript 與 Web3 基礎**  
+  2. **EVM、錢包、加密學原理**  
+  3. **Solidity 智能合約設計**  
+  4. **前端整合與 DApp 開發**  
+  5. **DeFi 互動與進階合約**  
+  6. **合約測試、部署與主網實戰**  
+  7. **最終專案開發與 Demo**  
+  <br>目前已完成第 1 週，每日打卡挑戰進度，致力提升 Solidity、智能合約與 DApp 開發能力。
 
 ## 近期熱忱與專注領域
 
@@ -25,7 +33,7 @@
 
 - [`ecdsa-node`](https://github.com/FankyMiu/Fanky-web3-ecdsa-node)：端到端以太坊錢包 DApp 專案，詳細學習歷程與完整密碼學實作
 - `notes/` 目錄下，週更學習紀錄與「Bootcamp 心得」
-- 即將進行：Solidity 智能合約實戰、链上自動化腳本、DeFi 相關應用
+- 即將進行：Solidity 智能合約實戰、鏈上自動化腳本、DeFi 相關應用
 
 ## 專業堅持
 
