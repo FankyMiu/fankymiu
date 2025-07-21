@@ -1,110 +1,40 @@
-# 👋 Welcome to FankyMiu's GitHub Homepage
+# Hi, I'm Fanky Miu 👋
 
-## About Me
+> Fixed Income Specialist | Aspiring Blockchain Developer | Based in Hong Kong
 
-- 🌏 Based in Hong Kong, previously focused on fixed income market analysis
-- 📊 Passionate about financial market research and actively exploring blockchain, technology innovation, and data science
-- 🧑‍💻 Committed to fully transitioning into Web3 and blockchain development
+## 🚀 關於我 About Me
 
-## Technical Skills & Learning Objectives
+- 💼  固定收益市場專家（Fixed Income Specialist），專注公司與債券研究
+- 🔑  致力於區塊鏈、智能合約、加密貨幣與 Web3 生態系
+- 🌱  正積極參加 Alchemy University Ethereum Bootcamp，實戰精進 DApp & 區塊鏈技術
+- 🛠️  樂於深入 DeFi、智能合約安全、Web3 資料科學、ZK 隱私運算等領域
 
-- **Programming Languages:** Python, JavaScript
-- **Finance Applications:** Corporate and bond analysis, quantitative strategies
-- **Blockchain & Smart Contracts:** Fundamentals, cryptography, DApp development, emerging web3 technologies
-- **Current Learning:**  
-  🌟 Actively participating in the [Alchemy University Ethereum Developer Bootcamp](https://university.alchemy.com/) (7 weeks). The curriculum covers:  
-  1. **JavaScript & Web3 Fundamentals**  
-  2. **EVM, Wallets, Cryptography**  
-  3. **Solidity Smart Contract Design**  
-  4. **Frontend Integration & DApp Development**  
-  5. **DeFi Interaction & Advanced Contracts**  
-  6. **Smart Contract Testing, Deployment, and Mainnet Practice**  
-  7. **Capstone Project Development & Demo**  
-  <br>Currently, I have completed Week 1 and am progressing with daily coding challenges, focusing on building up skills in Solidity, smart contracts, and DApp development.
+## 📝 學習進度 Learning Progress
 
-## Current Interests & Focus
+- 🌳 **完成 [Merkle Gift List](https://github.com/FankyMiu/Fanky-Merkle-Gift-List)**
+  - 學會運用 Merkle Tree 實現白名單驗證與 proof 驗證流程，掌握 client/server 資料串接
+  - 理解密碼學基礎、Node.js/Express 前後端設計、API Debug 與專案 GitFlow
+  - 熟悉資料結構應用於 NFT 空投、DAO 會員資格管理等 Web3 場景
 
-- 💡 Deepening knowledge in Ethereum core cryptography (ECDSA, Keccak256)
-- 🪙 End-to-end wallet and blockchain application projects
-- 🔒 Security best practices, decentralized account management, replay protection
-- Striving to write clean code and document all learning in open-source projects
+- 📚 **持續進修 Ethereum、EVM、智能合約安全、ECDSA 密碼學以及 DApp 工程全端實戰**
+  - 進行 ECDSA 錢包實作
+  - 研習 Solidity 結構與常見漏洞
+  - 未來將延伸至固定收益、金融產品 NFT 化等創新應用
 
-## Projects & Notes
+## 🛠 專案 Project Highlights
 
-- [`ecdsa-node`](https://github.com/FankyMiu/Fanky-web3-ecdsa-node): A comprehensive end-to-end Ethereum wallet DApp project, with detailed learning records and extensive cryptographic implementation
-- `notes/` folder: Weekly learning journals and Bootcamp takeaways
-- Upcoming: Solidity smart contract projects, on-chain automation scripts, DeFi-focused applications
+- [**Merkle Gift List**](https://github.com/FankyMiu/Fanky-Merkle-Gift-List)  
+  Merkle Tree 實作白名單 proof 與鏈下/鏈上資格驗證範例  
+- 更多 Ethereum/JS/金融專案開發中
 
-## Professional Commitment
+## 📖 興趣與背景
 
-- Emphasizing private key security and best development practices
-- Providing thorough documentation and reflection at every learning stage for deeper knowledge retention and skill growth
-- Continuously striving for self-improvement, aiming for both engineering efficiency and security quality
+- 熱衷解構金融產品（公司債/票據/結構型商品）
+- 研究區塊鏈經濟模型、ZK 技術與 Web3 身分治理
 
-## Interests & Explorations
+## 🤝 聯絡我 Contact
 
-- Blockchain applications, Web3 technologies, financial market structures
+- 歡迎 fork、issue、email 或 LinkedIn 私訊交流 Web3、金融創新與產業合作
 
-## Let's Connect
-
-- Feel free to open a GitHub Issue for discussion, collaboration, or feedback!
-
----
-
-MIT License | Last updated: 2025-07-20
-
-
-# 👋 歡迎來到 FankyMiu 的 GitHub 主頁
-
-## 關於我
-
-- 🌏 位於香港，原本專注於固定收益（Fixed Income）市場的分析工作
-- 📊 熱愛金融市場研究，也積極探索區塊鏈、多元技術與數據科學
-- 🧑‍💻 正全力轉型為 Web3 與區塊鏈開發者
-
-## 技術專長與學習目標
-
-- **程式語言**：Python、JavaScript
-- **金融應用**：公司與債券分析、量化策略
-- **區塊鏈/智能合約**：基礎原理、密碼學、DApp、新興技術
-- **現正進修**：  
-  🌟 持續參與 [Alchemy University Ethereum Developer Bootcamp](https://university.alchemy.com/)，課程共七週，內容涵蓋：  
-  1. **JavaScript 與 Web3 基礎**  
-  2. **EVM、錢包、加密學原理**  
-  3. **Solidity 智能合約設計**  
-  4. **前端整合與 DApp 開發**  
-  5. **DeFi 互動與進階合約**  
-  6. **合約測試、部署與主網實戰**  
-  7. **最終專案開發與 Demo**  
-  <br>目前已完成第 1 週，每日打卡挑戰進度，致力提升 Solidity、智能合約與 DApp 開發能力。
-
-## 近期熱忱與專注領域
-
-- 💡 深入學習以太坊核心密碼學（ECDSA、Keccak256）
-- 🪙 全端錢包與區塊鏈應用實作
-- 🔒 資安原則、去中心化帳戶管理、Replay Protection
-- 收斂並精煉程式碼、積極紀錄所有學習成果於開源專案
-
-## 作品與筆記導覽
-
-- [`ecdsa-node`](https://github.com/FankyMiu/Fanky-web3-ecdsa-node)：端到端以太坊錢包 DApp 專案，詳細學習歷程與完整密碼學實作
-- `notes/` 目錄下，週更學習紀錄與「Bootcamp 心得」
-- 即將進行：Solidity 智能合約實戰、鏈上自動化腳本、DeFi 相關應用
-
-## 專業堅持
-
-- 強調私鑰安全與最佳開發流程
-- 每個階段有詳細心得/反思，力求知識沉澱與技能深耕
-- 務求突破自我，從「追求效率」到「追求工程與資安品質」
-
-## 興趣與多元面向
-
-- 區塊鏈應用、Web3 技術、金融市場結構
-
-## 歡迎交流
-
-- 隨時可於 GitHub Issue 留言討論，或邀約合作／問題交流
-
----
-
-MIT License | 最後更新：2025-07-20
+> *「技術貫穿金融 ‧ 創新鏈接未來」*  
+> *Tech empowering Finance — Web3 for the Future*
