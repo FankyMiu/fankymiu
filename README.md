@@ -38,3 +38,48 @@
 
 > *「技術貫穿金融 ‧ 創新鏈接未來」*  
 > *Tech empowering Finance — Web3 for the Future*
+>
+
+
+# Hi, I'm Fanky Miu 👋
+
+> Fixed Income Specialist | Aspiring Blockchain Developer | Hong Kong
+
+## 🚀 About Me
+
+- 💼 Fixed Income Specialist with strong expertise in corporate bonds and credit research
+- 🔑 Passionate about blockchain, smart contracts, cryptocurrencies, and the Web3 ecosystem
+- 🌱 Actively learning through the Alchemy University Ethereum Bootcamp, focusing on hands-on DApp and blockchain application development
+- 🛠️ Exploring DeFi, smart contract security, Web3 data science, and ZK privacy technologies
+
+## 📝 Learning Progress
+
+- 🌳 **Completed [Merkle Gift List](https://github.com/FankyMiu/Fanky-Merkle-Gift-List) Project**
+  - Mastered Merkle Tree implementation for whitelist/proof validation, with full client/server integration
+  - Developed a strong understanding of cryptographic fundamentals, Node.js/Express backend, API debugging, and Git collaborative workflow
+  - Practiced applying these concepts to real-world scenarios such as NFT airdrops, DAO membership proofs, and more
+
+- 📚 **Continuing to Deepen Knowledge in Ethereum, EVM, Smart Contract Security, ECDSA, and Full-Stack DApp Engineering:**
+  - Building ECDSA wallet projects
+  - Studying Solidity contract structure and common vulnerabilities
+  - Planning to extend tech stack into fixed income and financial product tokenization
+
+## 🛠 Featured Projects
+
+- [**Merkle Gift List**](https://github.com/FankyMiu/Fanky-Merkle-Gift-List)  
+  Merkle Tree-based whitelist proof, demonstrating off-chain/on-chain eligibility verification  
+- More Ethereum/JavaScript/Finance crossover projects coming soon!
+
+## 📖 Interests & Background
+
+- Deep interest in dissecting financial products (corporate bonds, notes, structured products)
+- Researching blockchain tokenomics, ZK technology, and decentralized identity
+- Exploring the integration of Chinese medicine, I Ching, Zi Wei Dou Shu and Eastern wisdom with financial and tech innovation
+
+## 🤝 Get in Touch
+
+- Feel free to fork, create an issue, send an email, or contact me on LinkedIn to discuss Web3, financial innovation, or industry collaboration!
+
+> *Tech Empowering Finance — Web3 for the Future*
+
+
