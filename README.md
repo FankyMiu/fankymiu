@@ -74,7 +74,6 @@
 
 - Deep interest in dissecting financial products (corporate bonds, notes, structured products)
 - Researching blockchain tokenomics, ZK technology, and decentralized identity
-- Exploring the integration of Chinese medicine, I Ching, Zi Wei Dou Shu and Eastern wisdom with financial and tech innovation
 
 ## 🤝 Get in Touch
 
