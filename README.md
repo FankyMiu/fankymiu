@@ -1,13 +1,9 @@
 # Hi, I'm Fanky Miu 👋
 
-> Fixed Income Specialist | Aspiring Blockchain Developer | Based in Hong Kong
-
-## 🚀 關於我 About Me
-
-- 💼  固定收益市場專家（Fixed Income Specialist），專注公司與債券研究
-- 🔑  致力於區塊鏈、智能合約、加密貨幣與 Web3 生態系
-- 🌱  正積極參加 Alchemy University Ethereum Bootcamp，實戰精進 DApp & 區塊鏈技術
-- 🛠️  樂於深入 DeFi、智能合約安全、Web3 資料科學、ZK 隱私運算等領域
+> 固定收益專家兼區塊鏈開發初學者，熱衷技術跨界金融創新  
+> 目前專注 Ethereum 智能合約、安全性、DeFi 與 Web3 開發技術  
+> 積極參與 Alchemy University Ethereum Bootcamp  
+> 致力於從基礎做起，結合理論與實做專案，打造完整技術棧
 
 ## 📝 學習進度 Learning Progress
 
@@ -38,47 +34,3 @@
 
 > *「技術貫穿金融 ‧ 創新鏈接未來」*  
 > *Tech empowering Finance — Web3 for the Future*
->
-
-
-# Hi, I'm Fanky Miu 👋
-
-> Fixed Income Specialist | Aspiring Blockchain Developer | Hong Kong
-
-## 🚀 About Me
-
-- 💼 Fixed Income Specialist with strong expertise in corporate bonds and credit research
-- 🔑 Passionate about blockchain, smart contracts, cryptocurrencies, and the Web3 ecosystem
-- 🌱 Actively learning through the Alchemy University Ethereum Bootcamp, focusing on hands-on DApp and blockchain application development
-- 🛠️ Exploring DeFi, smart contract security, Web3 data science, and ZK privacy technologies
-
-## 📝 Learning Progress
-
-- 🌳 **Completed [Merkle Gift List](https://github.com/FankyMiu/Fanky-Merkle-Gift-List) Project**
-  - Mastered Merkle Tree implementation for whitelist/proof validation, with full client/server integration
-  - Developed a strong understanding of cryptographic fundamentals, Node.js/Express backend, API debugging, and Git collaborative workflow
-  - Practiced applying these concepts to real-world scenarios such as NFT airdrops, DAO membership proofs, and more
-
-- 📚 **Continuing to Deepen Knowledge in Ethereum, EVM, Smart Contract Security, ECDSA, and Full-Stack DApp Engineering:**
-  - Building ECDSA wallet projects
-  - Studying Solidity contract structure and common vulnerabilities
-  - Planning to extend tech stack into fixed income and financial product tokenization
-
-## 🛠 Featured Projects
-
-- [**Merkle Gift List**](https://github.com/FankyMiu/Fanky-Merkle-Gift-List)  
-  Merkle Tree-based whitelist proof, demonstrating off-chain/on-chain eligibility verification  
-- More Ethereum/JavaScript/Finance crossover projects coming soon!
-
-## 📖 Interests & Background
-
-- Deep interest in dissecting financial products (corporate bonds, notes, structured products)
-- Researching blockchain tokenomics, ZK technology, and decentralized identity
-
-## 🤝 Get in Touch
-
-- Feel free to fork, create an issue, send an email, or contact me on LinkedIn to discuss Web3, financial innovation, or industry collaboration!
-
-> *Tech Empowering Finance — Web3 for the Future*
-
-
