@@ -62,4 +62,3 @@
 > *Tech empowering Finance — Web3 for the Future*
 ```
 
-如果你需要，我也可以協助你排版更美觀或加入徽章及截圖說明，隨時告訴我！
